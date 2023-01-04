@@ -4,20 +4,26 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import xarray as xr
 from glob import glob
+import gcsfs
 
 
 def make_dir(path):
     if os.path.exists(path) is False:
         os.makedirs(path)
         
-def open_dataset(data_path, file):
-    """Flexible opener that can handle both local files (legacy) and cloud urls"""
+def open_dataset(file_path):
+    """Flexible opener that can handle both local files (legacy) and cloud urls. IMPORTANT: For this to work the `file_path` must be provided without extension."""
     # TODO: I am fairly sure there is an even more elegant way to do this with fsspec
-    if 'gs://' in data_path:
-        pass
-        print('Not implemented')
+    if 'gs://' in file_path:
+        store = f"{file_path}.zarr"
+        fs = gcsfs.GCSFileSystem()
+        mapper = fs.get_mapper(store)
+        ds = xr.open_dataset(mapper, engine='zarr')
     else:
-        return xr.open_dataset(os.path.join(data_path, f"{file}.nc"))
+        ds = xr.open_dataset(f"{file_path}.nc")
+        # add information to sort and label etc
+        ds.attrs['file_name']
+    return ds
         
         
         
@@ -36,8 +42,7 @@ def prepare_predictor(data_sets, data_path,time_reindex=True):
     length_all = []
     
     for file in data_sets:
-        data = open_dataset(data_path, f"inputs_{file}")
-        # data = xr.open_dataset(os.path.join(data_path, f"inputs_{file}.nc"))
+        data = open_dataset(f"{data_path}inputs_{file}")
         X_all.append(data)
         length_all.append(len(data.time))
     
@@ -57,8 +62,7 @@ def prepare_predictand(data_sets,data_path,time_reindex=True):
     length_all = []
     
     for file in data_sets:
-        data = open_dataset(data_path, f"outputs_{file}")
-        # data = xr.open_dataset(os.path.join(data_path, f"outputs_{file}.nc"))
+        data = open_dataset(f"{data_path}outputs_{file}")
         Y_all.append(data)
         length_all.append(len(data.time))
     
@@ -85,9 +89,6 @@ def plot_history(history):
     plt.plot(history.epoch, np.array(history.history['val_loss']),
            label = 'Val loss')
     plt.legend()
-    
-    
-    
     
 # Utilities for normalizing the input data
 def normalize(data, var, meanstd_dict):
