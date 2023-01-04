@@ -10,12 +10,23 @@ def make_dir(path):
     if os.path.exists(path) is False:
         os.makedirs(path)
         
+def open_dataset(data_path, file):
+    """Flexible opener that can handle both local files (legacy) and cloud urls"""
+    # TODO: I am fairly sure there is an even more elegant way to do this with fsspec
+    if 'gs://' in data_path:
+        pass
+        print('Not implemented')
+    else:
+        return xr.open_dataset(os.path.join(data_path, f"{file}.nc"))
+        
+        
         
 def prepare_predictor(data_sets, data_path,time_reindex=True):
     """
     Args:
         data_sets list(str): names of datasets
     """
+    # switch betw
         
     # Create training and testing arrays
     if isinstance(data_sets, str):
@@ -25,7 +36,8 @@ def prepare_predictor(data_sets, data_path,time_reindex=True):
     length_all = []
     
     for file in data_sets:
-        data = xr.open_dataset(os.path.join(data_path, f"inputs_{file}.nc"))
+        data = open_dataset(data_path, f"inputs_{file}")
+        # data = xr.open_dataset(os.path.join(data_path, f"inputs_{file}.nc"))
         X_all.append(data)
         length_all.append(len(data.time))
     
@@ -45,7 +57,8 @@ def prepare_predictand(data_sets,data_path,time_reindex=True):
     length_all = []
     
     for file in data_sets:
-        data = xr.open_dataset(os.path.join(data_path, f"outputs_{file}.nc"))
+        data = open_dataset(data_path, f"outputs_{file}")
+        # data = xr.open_dataset(os.path.join(data_path, f"outputs_{file}.nc"))
         Y_all.append(data)
         length_all.append(len(data.time))
     
