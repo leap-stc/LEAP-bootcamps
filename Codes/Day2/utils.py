@@ -32,7 +32,6 @@ def prepare_predictor(data_sets, data_path,time_reindex=True):
     Args:
         data_sets list(str): names of datasets
     """
-    # switch betw
         
     # Create training and testing arrays
     if isinstance(data_sets, str):
