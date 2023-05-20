@@ -1,9 +1,12 @@
 # LEAP Climate Data Science Bootcamps 
 
 LEAP offers a few bootcamps on Climate Data Science each year using LEAP Pangeo Jupyter Hub.
+
 ### JupyterHub Link
 [![JupyterHub](https://img.shields.io/badge/jupyterhub-leap.2i2c.cloud-orange?style=for-the-badge&logo=jupyter)](https://leap.2i2c.cloud/)
+
 Make sure to select the "Medium" options **and** the "Pangeo Tensorflow ML Notbook" option from the drop-down menu.
+
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/14314623/210663933-5ff9e199-58bb-40c3-8a3b-bc2b535ce35e.png">
 
 ## Summer 2023 REU Bootcamp - June 2023
