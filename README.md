@@ -17,6 +17,8 @@ Syllabi and links:
 ___
 ## Winter 2023 Bootcamp - Jan 2023
 
+[Bootcamp Recordings on YouTube](https://www.youtube.com/playlist?list=PLXDGkYY03IBtP2vE5DTcBwXf07djfNR7l)
+
 ### Course Materials
 #### Day 1
 We will cover the [Xarray Lectures](https://earth-env-data-science.github.io/lectures/xarray/xarray_intro.html) from Ryan's class.
