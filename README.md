@@ -12,7 +12,7 @@ Make sure to select the "Medium" options **and** the "Pangeo Tensorflow ML Notbo
 ## Summer 2023 REU Bootcamp - June 2023
 
 Syllabi and links: 
-[Week 1 Schedule](https://docs.google.com/document/d/1dJKk8_WFN5Tophjt6zHUcfoTqeYMOrUa7e96m_x9i6g/edit?usp=sharing)
+[Week 1 Schedule](https://github.com/YuHuang3019/LEAP-bootcamps/blob/main/Schedules/REU23_Week1_Schedule.pdf)
 
 ___
 ## Winter 2023 Bootcamp - Jan 2023
