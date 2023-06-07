@@ -15,7 +15,7 @@ Syllabi and links:
 [Week 1 Schedule](https://github.com/YuHuang3019/LEAP-bootcamps/blob/main/Schedules/REU23_Week1_Schedule.pdf)
 
 Visualization of REU dataset:
-[Preprocessing and climate analysis](https://github.com/sungdukyu/LEAP_REU_Dataset_Notebook)
+[Preprocessing and Climate Analysis](https://github.com/sungdukyu/LEAP_REU_Dataset_Notebook)
 ___
 ## Winter 2023 Bootcamp - Jan 2023
 
