@@ -14,8 +14,9 @@ Make sure to select the "Medium" options **and** the "Pangeo Tensorflow ML Notbo
 Syllabi and links: 
 [Week 1 Schedule](https://github.com/YuHuang3019/LEAP-bootcamps/blob/main/Schedules/REU23_Week1_Schedule.pdf)
 
-Visualization of REU dataset:
-[Preprocessing and Climate Analysis](https://github.com/sungdukyu/LEAP_REU_Dataset_Notebook)
+[Preprocessing, visualization and climate analysis of REU dataset](https://github.com/sungdukyu/LEAP_REU_Dataset_Notebook)
+
+[Machine learning example using toy REU dataset](https://github.com/sungdukyu/LEAP_REU_Dataset_Notebook/tree/main/ML_notebook)
 ___
 ## Winter 2023 Bootcamp - Jan 2023
 
