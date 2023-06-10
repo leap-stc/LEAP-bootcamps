@@ -15,6 +15,7 @@ Syllabi and links:
 [Week 1 Schedule](https://github.com/YuHuang3019/LEAP-bootcamps/blob/main/Schedules/REU23_Week1_Schedule.pdf)
 
 [Week 2 Schedule](https://github.com/A-Candace/Week2_Bootcamp/blob/main/Workshop_Syllabus_Week2.doc)
+
 [Week 2 Additional Materials, Lectures, Codes](https://github.com/A-Candace/Week2_Bootcamp/tree/main
 
 [Preprocessing, visualization and climate analysis of REU dataset](https://github.com/sungdukyu/LEAP_REU_Dataset_Notebook)
