@@ -9,6 +9,14 @@ Make sure to select the "Medium" options **and** the "Pangeo Tensorflow ML Notbo
 
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/14314623/210663933-5ff9e199-58bb-40c3-8a3b-bc2b535ce35e.png">
 
+## Winter 2024 Bootcamp - Jan 2024
+
+Syllabi and links: 
+[Day 1 Schedule](to be updated)
+
+[Day 2 Schedule](to be updated)
+___
+
 ## Summer 2023 REU Bootcamp - June 2023
 
 Syllabi and links: 
