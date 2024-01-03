@@ -12,7 +12,7 @@ Make sure to select the "Medium" options **and** the "Pangeo Tensorflow ML Notbo
 ## Winter 2024 Bootcamp - Jan 2024
 
 Syllabi and links: 
-[Day 1 Schedule](to be updated)
+[Day 1 Schedule](https://github.com/YuHuang3019/LEAP-bootcamps/blob/main/Schedules/Bootcamp24Jan_Day1_Schedule.pdf)
 
 [Day 2 Schedule](to be updated)
 ___
