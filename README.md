@@ -14,7 +14,7 @@ Make sure to select the "Medium" options **and** the "Pangeo Tensorflow ML Notbo
 Syllabi and links: 
 [Day 1 Schedule](https://github.com/YuHuang3019/LEAP-bootcamps/blob/main/Schedules/Bootcamp24Jan_Day1_Schedule.pdf)
 
-[Day 2 Schedule](to be updated)
+[Day 2 Schedule](Finalized_Day2_Schedule.pdf)
 ___
 
 ## Summer 2023 REU Bootcamp - June 2023
