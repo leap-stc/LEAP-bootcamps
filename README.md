@@ -13,11 +13,9 @@ Please refer to the [LEAP-Pangeo Technical Documentation](https://leap-stc.githu
 ## Troubleshooting
 Check out the [LEAP-Pangeo FAQs](https://leap-stc.github.io/_preview/126/guides/faq.html#i-cannot-log-into-the-hub) if you run into problems
 
-## Events
+## Winter 2024 Bootcamp - Jan 2024
 
-### Winter 2024 Bootcamp - Jan 2024
-
-#### Day 1
+### Day 1
 Instructor: Yu Huang, Ph.D. candidate, Department of Earth and Environment Engineering Columbia University
 
 **Learning Goals**:
@@ -28,7 +26,7 @@ The workplan for Day-1 is on the following page. We mainly follow the workshop 2
 The day is divided into lecture sessions and interactive studios, offering participants the chance to solidify their learning through hands-on practice. 
 Students are asked to mirror the instructor’s each step during lecture sessions using LEAP-Pangeo Hub and are encouraged to work in groups.
 
-##### Materials and Links
+#### Materials and Links
 
 🪄 Click on the links here to open the materials up directly in the LEAP-Pangeo Hub
 
@@ -40,9 +38,14 @@ You can find the lecture notebooks [here](https://github.com/earth-env-data-scie
 
 [Day 1 Schedule](https://github.com/leap-stc/LEAP-bootcamps/tree/main/Schedules/Bootcamp24Jan_Day1_Schedule.pdf)
 
-#### Day 2
+### Day 2
 [Day 2 Schedule](https://github.com/A-Candace/Columbia_Winter2024_Bootcamp/blob/main/Finalized_Day2_Schedule.pdf)
 ___
+
+<details>
+
+<summary>Past Events</summary>
+
 ## Summer 2023 REU Bootcamp - June 2023
 
 Syllabi and links: 
@@ -68,3 +71,4 @@ Use [this link](https://leap.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A
 #### Day 2
 Use [this link](https://leap.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fleap-stc%2Fbootcamp-2023&urlpath=lab%2Ftree%2Fbootcamp-2023%2FCodes%2FDay2%2F&branch=main) to launch the material for Day 2.
 ___
+</details>
