@@ -72,3 +72,6 @@ Use [this link](https://leap.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A
 Use [this link](https://leap.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fleap-stc%2Fbootcamp-2023&urlpath=lab%2Ftree%2Fbootcamp-2023%2FCodes%2FDay2%2F&branch=main) to launch the material for Day 2.
 ___
 </details>
+
+## For Instructors
+Please refer to our [guide on how to prepare and run a LEAP bootcamp](https://leap-stc.github.io/guides/bootcamp.html#running-leap-bootcamps).
