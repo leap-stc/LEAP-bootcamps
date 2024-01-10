@@ -41,4 +41,4 @@ The lectures are based on the book [An Introduction to Earth and Environmental D
 ___
 
 ## Troubleshooting
-Check out the [LEAP-Pangeo FAQs]() if you run into problems
+Check out the [LEAP-Pangeo FAQs](https://leap-stc.github.io/_preview/126/guides/faq.html#i-cannot-log-into-the-hub) if you run into problems
