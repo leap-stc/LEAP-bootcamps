@@ -30,9 +30,10 @@ Students are asked to mirror the instructor’s each step during lecture session
 🪄 Click on the links here to open the materials up directly in the LEAP-Pangeo Hub
 
 The lectures are based on the book [An Introduction to Earth and Environmental Data Science](https://earth-env-data-science.github.io/intro.html). [Book github repo](https://github.com/earth-env-data-science/earth-env-data-science-book)
+You can find the lecture notebooks [here](https://github.com/earth-env-data-science/earth-env-data-science-book/tree/master/src/lectures)
 
+[![Open in LEAP-Pangeo Hub](https://custom-icon-badges.demolab.com/badge/Jupyter%20Hub-Launch%20%F0%9F%9A%80-blue?style=for-the-badge&logo=leap-globe)](https://leap.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fearth-env-data-science%2Fearth-env-data-science-book&urlpath=lab%2Ftree%2Fearth-env-data-science-book%2F&branch=master) (navigate to `src/lectures' to find the notebooks).
 
-[![Open in LEAP-Pangeo Hub](https://custom-icon-badges.demolab.com/badge/Jupyter%20Hub-Launch%20%F0%9F%9A%80-blue?style=for-the-badge&logo=leap-globe)](https://leap.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fearth-env-data-science%2Fearth-env-data-science-book&branch=master&urlpath=lab%2Ftree%2Fearth-env-data-science-book%2Fsrc%2Fassignments)
 
 [Day 1 Schedule](https://github.com/leap-stc/LEAP-bootcamps/tree/main/Schedules/Bootcamp24Jan_Day1_Schedule.pdf)
 
