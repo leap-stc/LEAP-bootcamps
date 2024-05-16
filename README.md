@@ -13,6 +13,14 @@ Please refer to the [LEAP-Pangeo Technical Documentation](https://leap-stc.githu
 ## Troubleshooting
 Check out the [LEAP-Pangeo FAQs](https://leap-stc.github.io/_preview/126/guides/faq.html#i-cannot-log-into-the-hub) if you run into problems
 
+## Summer 2024 Bootcamp - May/June 2024
+Syllabi and links: 
+
+
+<details>
+
+<summary>Past Events</summary>
+
 ## Winter 2024 Bootcamp - Jan 2024
 
 ### Day 1
@@ -54,10 +62,6 @@ Time	       | Topic
 ### Day 2
 [Day 2 Schedule](https://github.com/A-Candace/Columbia_Winter2024_Bootcamp/blob/main/Finalized_Day2_Schedule.pdf)
 ___
-
-<details>
-
-<summary>Past Events</summary>
 
 ## Summer 2023 REU Bootcamp - June 2023
 
