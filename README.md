@@ -13,6 +13,8 @@ Please refer to the [LEAP-Pangeo Technical Documentation](https://leap-stc.githu
 ## Troubleshooting
 Check out the [LEAP-Pangeo FAQs](https://leap-stc.github.io/_preview/126/guides/faq.html#i-cannot-log-into-the-hub) if you run into problems
 
+## Summer 2024 Bootcamp - May and June 2024
+
 ## Winter 2024 Bootcamp - Jan 2024
 
 ### Day 1
