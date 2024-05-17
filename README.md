@@ -15,6 +15,9 @@ Check out the [LEAP-Pangeo FAQs](https://leap-stc.github.io/_preview/126/guides/
 
 ## Summer 2024 Bootcamp - May and June 2024
 
+### Day 2
+[Day 2 Schedule](https://github.com/A-Candace/Columbia_Winter2024_Bootcamp/blob/main/Finalized_Day2_Schedule.pdf)
+
 ## Winter 2024 Bootcamp - Jan 2024
 
 ### Day 1
