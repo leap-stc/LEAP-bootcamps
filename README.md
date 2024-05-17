@@ -14,8 +14,16 @@ Please refer to the [LEAP-Pangeo Technical Documentation](https://leap-stc.githu
 Check out the [LEAP-Pangeo FAQs](https://leap-stc.github.io/_preview/126/guides/faq.html#i-cannot-log-into-the-hub) if you run into problems
 
 ## Summer 2024 Bootcamp - May and June 2024
+### Week 1
+Time	       | Topic
+------------ | ------------
+Day 1        | Project Review, Getting Started (Python, Scientific Computing & Visualization)
+Day 2        | Data Exploration and Analysis with Xarray, Dask
+Day 3        | Reproducing Paper
+Day 4        | Fundamental of Climate Science
 
-### Day 2
+
+### Week 2
 [Day 2 Schedule](https://github.com/A-Candace/Columbia_Winter2024_Bootcamp/blob/main/Finalized_Day2_Schedule.pdf)
 
 ## Winter 2024 Bootcamp - Jan 2024
