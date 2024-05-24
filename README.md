@@ -23,8 +23,8 @@ Day 3        | Reproducing Paper
 Day 4        | Fundamental of Climate Science
 
 
-### Week 2
-[Day 2 Schedule](https://github.com/A-Candace/Columbia_Winter2024_Bootcamp/blob/main/Finalized_Day2_Schedule.pdf)
+### Week 2 Syllabus, Documents, Codes
+[Day 2 Schedule](https://github.com/A-Candace/Week2_Columbia_LEAP_Bootcamp)
 
 ## Winter 2024 Bootcamp - Jan 2024
 
