@@ -24,7 +24,7 @@ Day 4        | Fundamental of Climate Science
 
 
 ### Week 2 Syllabus, Documents, Codes
-[Day 2 Schedule](https://github.com/A-Candace/Week2_Columbia_LEAP_Bootcamp)
+[Day 2 Files](https://github.com/A-Candace/Week2_Columbia_LEAP_Bootcamp)
 
 ## Winter 2024 Bootcamp - Jan 2024
 
