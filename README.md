@@ -22,6 +22,8 @@ Day 2        | Data Exploration and Analysis with Xarray, Dask
 Day 3        | Reproducing Paper
 Day 4        | Fundamental of Climate Science
 
+[![Open in LEAP-Pangeo Hub](https://custom-icon-badges.demolab.com/badge/Jupyter%20Hub-Launch%20%F0%9F%9A%80-blue?style=for-the-badge&logo=leap-globe)](https://leap.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fleap-stc%2FLEAP-bootcamps&urlpath=lab%2Ftree%2FLEAP-bootcamps%2F&branch=main) 
+
 
 ### Week 2
 [Day 2 Schedule](https://github.com/A-Candace/Columbia_Winter2024_Bootcamp/blob/main/Finalized_Day2_Schedule.pdf)
