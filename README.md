@@ -16,7 +16,7 @@ Check out the [LEAP-Pangeo FAQs](https://leap-stc.github.io/_preview/126/guides/
 ## Winter 2025 Bootcamp - Jan 2025
 
 ### Day 1
-Instructor: Yu Huang, Ph.D. candidate, Department of Earth and Environment Engineering Columbia University
+Instructor: Qingyuan Yang, Ph.D., Department of Earth and Environment Engineering Columbia University
 
 **Learning Goals**:
 1. Learn to process, analyze and visualize climate data in the cloud with scientific Python using the LEAP-Pangeo Jupyter Hub;
