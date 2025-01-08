@@ -35,7 +35,6 @@ You can find the lecture notebooks [here](https://github.com/earth-env-data-scie
 [![Open in LEAP-Pangeo Hub](https://custom-icon-badges.demolab.com/badge/Jupyter%20Hub-Launch%20%F0%9F%9A%80-blue?style=for-the-badge&logo=leap-globe)](https://leap.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fearth-env-data-science%2Fearth-env-data-science-book&urlpath=lab%2Ftree%2Fearth-env-data-science-book%2F&branch=master) (navigate to `src/lectures' to find the notebooks).
 
 ### Day 1
-[Day 1 Schedule](https://github.com/leap-stc/LEAP-bootcamps/tree/main/Schedules/Bootcamp24Jan_Day1_Schedule.pdf)
 
 #### MONDAY, January 13, 2025: Climate and Geospatial Data Analysis with Python  
 
@@ -75,7 +74,6 @@ You can find the lecture notebooks [here](https://github.com/earth-env-data-scie
 [Day 1 Files](https://github.com/yiqioyang/LEAP_Bootcamp_winter2025_Day1)
 
 ### Day 2
-[Day 2 Schedule](https://github.com/A-Candace/Columbia_Winter2024_Bootcamp/blob/main/Finalized_Day2_Schedule.pdf)
 
 #### TUESDAY, January 14, 2025: Machine Learning for Climate Data
 
