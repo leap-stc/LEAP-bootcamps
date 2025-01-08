@@ -34,50 +34,94 @@ You can find the lecture notebooks [here](https://github.com/earth-env-data-scie
 
 [![Open in LEAP-Pangeo Hub](https://custom-icon-badges.demolab.com/badge/Jupyter%20Hub-Launch%20%F0%9F%9A%80-blue?style=for-the-badge&logo=leap-globe)](https://leap.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fearth-env-data-science%2Fearth-env-data-science-book&urlpath=lab%2Ftree%2Fearth-env-data-science-book%2F&branch=master) (navigate to `src/lectures' to find the notebooks).
 
+### Day 1
 [Day 1 Schedule](https://github.com/leap-stc/LEAP-bootcamps/tree/main/Schedules/Bootcamp24Jan_Day1_Schedule.pdf)
 
-MONDAY, January 13, 2025: Climate and Geospatial Data Analysis with Python  
+#### MONDAY, January 13, 2025: Climate and Geospatial Data Analysis with Python  
 
 8:30 a.m.: 	Check-in  / Breakfast 
+
 9:00 a.m.: 	Introduction to Bootcamp + Team 
+
 9:05 a.m.: 	LEAP-Pangeo Login and Pre-Lecture Preparation
+
 9:15 a.m.: 	Introduction of Climate Data & LEAP-Pangeo (Record)
+
 9:25 a.m.: 	Session 1: Basic Xarray (Record)
+
 10:55 a.m.: Studio 1: Analyzing Atmospheric Radiation Data 
+
 11:30 a.m.: Start setting up for lunch break with the list of participants to pick up lunch.
+
 11:45 a.m.: Lunch + Break
+
 12:45 p.m.: Session 2: Advanced Xarray (Record)
+
 2:15 p.m.: 	Studio 2: Analyzing El Niño Variability in SST Data
+
 2:45 p.m.: 	Set up snack break
+
 3:05 p.m.: 	Break
+
 3:15 p.m.: 	Session 3: Climate Data in the Cloud (Record)
+
 4:05 p.m.: 	Studio 3: Multi-Model Analysis and Comparison
+
 4:15 p.m.: 	Pack up snacks for Day 2
+
 4:45 p.m.: 	Day 1 Concludes
-
-TUESDAY, January 14, 2025: Machine Learning for Climate Data
-
-8:30 a.m.: 	Check-in / Breakfast
-9:00 a.m.: 	Session 1: Introduction to Neural Networks (Record)
-10:00 a.m.: Break
-10:15 a.m.: Neural Networks cont’d.  (Record)
-10:30 a.m.: Lab: Using Neural Networks with Climate Data in the Cloud
-11:15 a.m.: Start setting up for lunch break with the list of participants to pick up lunch.
-11:30 a.m.: Lunch + Break
-12:30 p.m.: Session 2: Convolutional Neural Networks (Record)
-1:00 p.m.: 	Set up snack break 
-1:15 p.m.: 	Break
-1:30 p.m.: 	Lab: Using CNN to forecast global temperature 
-2:15 p.m.: 	Discussion to Recurrent Neural Networks (Record)
-2:30 p.m.: 	Replenish snacks
-2:45 p.m.: 	Break
-3:00 p.m.: 	Lab: LSTM Model
-4:15 p.m.: 	Final Thoughts: Graph Neural Networks  (Record)
-4:30 p.m.: 	Bootcamp concludes
-
 
 ### Day 2
 [Day 2 Schedule](https://github.com/A-Candace/Columbia_Winter2024_Bootcamp/blob/main/Finalized_Day2_Schedule.pdf)
+
+#### TUESDAY, January 14, 2025: Machine Learning for Climate Data
+
+8:30 a.m.: 	Check-in / Breakfast
+
+9:00 a.m.: 	Session 1: Introduction to Neural Networks (Record)
+
+10:00 a.m.: Break
+
+10:15 a.m.: Neural Networks cont’d.  (Record)
+
+10:30 a.m.: Lab: Using Neural Networks with Climate Data in the Cloud
+
+11:15 a.m.: Start setting up for lunch break with the list of participants to pick up lunch.
+
+11:30 a.m.: Lunch + Break
+
+12:30 p.m.: Session 2: Convolutional Neural Networks (Record)
+
+1:00 p.m.: 	Set up snack break 
+
+1:15 p.m.: 	Break
+
+1:30 p.m.: 	Lab: Using CNN to forecast global temperature 
+
+2:15 p.m.: 	Discussion to Recurrent Neural Networks (Record)
+
+2:30 p.m.: 	Replenish snacks
+
+2:45 p.m.: 	Break
+
+3:00 p.m.: 	Lab: LSTM Model
+
+4:15 p.m.: 	Final Thoughts: Graph Neural Networks  (Record)
+
+4:30 p.m.: 	Bootcamp concludes
+
+
+
+### Day 2 Syllabus, Documents, Codes
+[Day 2 Files](https://github.com/A-Candace/Week2_Columbia_LEAP_Bootcamp)
+
+___
+
+<details>
+
+<summary>Past Events</summary>
+
+
 
 ## Summer 2024 Bootcamp - May and June 2024
 ### Week 1
@@ -90,16 +134,6 @@ Day 1        | Project Review, Getting Started (Python, Scientific Computing & V
 Day 2        | Data Exploration and Analysis with Xarray, Dask
 Day 3        | Advanced Xarray
 Day 4        | Fundamental of Climate Science
-
-
-### Week 2 Syllabus, Documents, Codes
-[Day 2 Files](https://github.com/A-Candace/Week2_Columbia_LEAP_Bootcamp)
-
-___
-
-<details>
-
-<summary>Past Events</summary>
 
 ## Winter 2024 Bootcamp - Jan 2024
 
