@@ -36,20 +36,45 @@ You can find the lecture notebooks [here](https://github.com/earth-env-data-scie
 
 [Day 1 Schedule](https://github.com/leap-stc/LEAP-bootcamps/tree/main/Schedules/Bootcamp24Jan_Day1_Schedule.pdf)
 
-Time	       | Topic
------------- | ------------
-8:30 – 9:15	 | Check in / Breakfast
-9:15 – 9:20	 | Greeting from Prof. Pierre Gentine, LEAP center director
-9:20 – 9:30	 | LEAP-Pangeo Login and Pre-lecture Preparation
-9:30 – 9:40	 | Introduction of Climate Data & LEAP-Pangeo
-9:40 – 11:10 | Session 1: Basic Xarray ([Argo](https://www.aoml.noaa.gov/argo/))
-11:10 – 12:00| Studio 1: Analyzing Atmospheric Radiation ([CERES](https://ceres.larc.nasa.gov/resources/faqs/))
-12:00 – 13:00| Lunch + Break
-13:00 – 14:30| Session 2: Advanced Xarray 
-14:30 – 15:20| Studio 2: Analyzing [El Niño](https://www.ncei.noaa.gov/access/monitoring/enso/sst) Variability ([ERSST](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00927))
-15:20 – 15:30| Break
-15:30 – 16:20| Session 3: [Climate Modeling](https://www.youtube.com/watch?v=XGi2a0tNjOo) and Simulations in the Cloud ([CMIP6](https://gmd.copernicus.org/articles/9/1937/2016/))
-16:20 – 17:00| Studio 3: Multi-Model Analysis and Comparison
+MONDAY, January 13, 2025: Climate and Geospatial Data Analysis with Python  
+
+8:30 a.m.: 	Check-in  / Breakfast 
+9:00 a.m.: 	Introduction to Bootcamp + Team 
+9:05 a.m.: 	LEAP-Pangeo Login and Pre-Lecture Preparation
+9:15 a.m.: 	Introduction of Climate Data & LEAP-Pangeo (Record)
+9:25 a.m.: 	Session 1: Basic Xarray (Record)
+10:55 a.m.: Studio 1: Analyzing Atmospheric Radiation Data 
+11:30 a.m.: Start setting up for lunch break with the list of participants to pick up lunch.
+11:45 a.m.: Lunch + Break
+12:45 p.m.: Session 2: Advanced Xarray (Record)
+2:15 p.m.: 	Studio 2: Analyzing El Niño Variability in SST Data
+2:45 p.m.: 	Set up snack break
+3:05 p.m.: 	Break
+3:15 p.m.: 	Session 3: Climate Data in the Cloud (Record)
+4:05 p.m.: 	Studio 3: Multi-Model Analysis and Comparison
+4:15 p.m.: 	Pack up snacks for Day 2
+4:45 p.m.: 	Day 1 Concludes
+
+TUESDAY, January 14, 2025: Machine Learning for Climate Data
+
+8:30 a.m.: 	Check-in / Breakfast
+9:00 a.m.: 	Session 1: Introduction to Neural Networks (Record)
+10:00 a.m.: Break
+10:15 a.m.: Neural Networks cont’d.  (Record)
+10:30 a.m.: Lab: Using Neural Networks with Climate Data in the Cloud
+11:15 a.m.: Start setting up for lunch break with the list of participants to pick up lunch.
+11:30 a.m.: Lunch + Break
+12:30 p.m.: Session 2: Convolutional Neural Networks (Record)
+1:00 p.m.: 	Set up snack break 
+1:15 p.m.: 	Break
+1:30 p.m.: 	Lab: Using CNN to forecast global temperature 
+2:15 p.m.: 	Discussion to Recurrent Neural Networks (Record)
+2:30 p.m.: 	Replenish snacks
+2:45 p.m.: 	Break
+3:00 p.m.: 	Lab: LSTM Model
+4:15 p.m.: 	Final Thoughts: Graph Neural Networks  (Record)
+4:30 p.m.: 	Bootcamp concludes
+
 
 ### Day 2
 [Day 2 Schedule](https://github.com/A-Candace/Columbia_Winter2024_Bootcamp/blob/main/Finalized_Day2_Schedule.pdf)
