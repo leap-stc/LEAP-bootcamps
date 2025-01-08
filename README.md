@@ -71,6 +71,9 @@ You can find the lecture notebooks [here](https://github.com/earth-env-data-scie
 
 4:45 p.m.: 	Day 1 Concludes
 
+### Day 1 Syllabus, Documents, Codes
+[Day 1 Files](https://github.com/yiqioyang/LEAP_Bootcamp_winter2025_Day1)
+
 ### Day 2
 [Day 2 Schedule](https://github.com/A-Candace/Columbia_Winter2024_Bootcamp/blob/main/Finalized_Day2_Schedule.pdf)
 
