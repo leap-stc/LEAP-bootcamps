@@ -10,6 +10,11 @@ Please refer to the [LEAP-Pangeo Technical Documentation](https://leap-stc.githu
 
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/14314623/210663933-5ff9e199-58bb-40c3-8a3b-bc2b535ce35e.png">
 
+## Slack Link
+
+Please, use this link to join our Slack group, allowing you to be able to communicate during and after bootcamp.
+[BootcampSlack](https://join.slack.com/share/enQtODI5NTg1MzkyMzAyNC05MTg4NzQ5NjY0YWM4ZTUzZDE1ZTkxZDM0MTUwNmRlNmYzYjAwNTIzYTQzZjVjMDI0Y2FhYzUyMDBlYTVkOTI4)
+
 ## Troubleshooting
 Check out the [LEAP-Pangeo FAQs](https://leap-stc.github.io/_preview/126/guides/faq.html#i-cannot-log-into-the-hub) if you run into problems
 
