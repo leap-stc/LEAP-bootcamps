@@ -50,23 +50,17 @@ You can find the lecture notebooks [here](https://github.com/earth-env-data-scie
 
 10:55 a.m.: Studio 1: Analyzing Atmospheric Radiation Data 
 
-11:30 a.m.: Start setting up for lunch break with the list of participants to pick up lunch.
-
 11:45 a.m.: Lunch + Break
 
 12:45 p.m.: Session 2: Advanced Xarray (Record)
 
 2:15 p.m.: 	Studio 2: Analyzing El Niño Variability in SST Data
 
-2:45 p.m.: 	Set up snack break
-
 3:05 p.m.: 	Break
 
 3:15 p.m.: 	Session 3: Climate Data in the Cloud (Record)
 
 4:05 p.m.: 	Studio 3: Multi-Model Analysis and Comparison
-
-4:15 p.m.: 	Pack up snacks for Day 2
 
 4:45 p.m.: 	Day 1 Concludes
 
@@ -87,21 +81,15 @@ You can find the lecture notebooks [here](https://github.com/earth-env-data-scie
 
 10:30 a.m.: Lab: Using Neural Networks with Climate Data in the Cloud
 
-11:15 a.m.: Start setting up for lunch break with the list of participants to pick up lunch.
-
 11:30 a.m.: Lunch + Break
 
 12:30 p.m.: Session 2: Convolutional Neural Networks (Record)
-
-1:00 p.m.: 	Set up snack break 
 
 1:15 p.m.: 	Break
 
 1:30 p.m.: 	Lab: Using CNN to forecast global temperature 
 
 2:15 p.m.: 	Discussion to Recurrent Neural Networks (Record)
-
-2:30 p.m.: 	Replenish snacks
 
 2:45 p.m.: 	Break
 
