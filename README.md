@@ -43,6 +43,23 @@ Day 4: Introduction CMIP and tools to read and process the datasets &
 #### Materials
 https://github.com/yiqioyang/LEAP_Bootcamp_summer_2025/tree/main
 
+### Second Week
+#### Instructor: Aya Lahlou, Graduate Researcher
+**Learning Goals**:
+
+Day 1: Intro to Neural Networks and CNNs
+
+Day 2: Temporal Models: Recurrent Neural Networks & Attention
+
+Day 3: Unsupervised Pattern Discovery & Anomaly Detection
+
+Day 4: Surrogates & Physics-Informed Models
+
+#### Materials
+https://github.com/AyaLahlou/LEAP_Bootcamp_summer_2025/tree/main
+            
+#### Instructor: Linnia Hawkins, PhD
+Day 5: Climate Modeling
 ___
 
 <details>
