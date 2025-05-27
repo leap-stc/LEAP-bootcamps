@@ -37,6 +37,8 @@ Day 3: advanced xarray (broadcast, groupby, interpolation)
 Day 4: Introduction CMIP and tools to read and process the datasets &
             linear regression + non-parametric regression (Gaussian Process) 
 
+#### Materials
+https://github.com/yiqioyang/LEAP_Bootcamp_summer_2025/tree/main
 
 ___
 
