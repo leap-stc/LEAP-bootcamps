@@ -19,6 +19,9 @@ Please, use this link to join our Slack group, allowing you to be able to commun
 Check out the [LEAP-Pangeo FAQs](https://leap-stc.github.io/_preview/126/guides/faq.html#i-cannot-log-into-the-hub) if you run into problems
 
 ## Summer Bootcamp Schedule and Materials 2025
+5/27/25: 11 am to 1 pm
+
+5/28/25 - 5:30/25, 6/2/25 - 6/6/25: 9:30 am to 11:30 am
 
 ### First Week
 #### Instructor: Qingyuan Yang, PhD
