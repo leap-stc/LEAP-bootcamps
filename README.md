@@ -27,9 +27,13 @@ Check out the [LEAP-Pangeo FAQs](https://leap-stc.github.io/_preview/126/guides/
 2. Gain a understanding of fundamental climate concepts, alongside common diagnostic statistics and techniques.
 
 Day 1-4 = 5/27 - 5/30
+
 Day 1: Climate Data format and storage; LEAP Pangeo; from Pandas to Xarray
+
 Day 2: basic xarray (read, visualization, join, merge, and etc)
+
 Day 3: advanced xarray (broadcast, groupby, interpolation)
+
 Day 4: Introduction CMIP and tools to read and process the datasets &
             linear regression + non-parametric regression (Gaussian Process) 
 
