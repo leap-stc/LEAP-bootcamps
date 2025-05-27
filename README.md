@@ -18,6 +18,14 @@ Please, use this link to join our Slack group, allowing you to be able to commun
 ## Troubleshooting
 Check out the [LEAP-Pangeo FAQs](https://leap-stc.github.io/_preview/126/guides/faq.html#i-cannot-log-into-the-hub) if you run into problems
 
+
+
+___
+
+<details>
+
+<summary>Past Events</summary>
+
 ## Winter 2025 Bootcamp - Jan 2025
 
 ### Day 1
@@ -108,14 +116,6 @@ You can find the lecture notebooks [here](https://github.com/earth-env-data-scie
 
 ### Day 2 Syllabus, Documents, Codes
 [Day 2 Files](https://github.com/A-Candace/Week2_Columbia_LEAP_Bootcamp)
-
-___
-
-<details>
-
-<summary>Past Events</summary>
-
-
 
 ## Summer 2024 Bootcamp - May and June 2024
 ### Week 1
