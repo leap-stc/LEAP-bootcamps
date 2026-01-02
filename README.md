@@ -18,55 +18,7 @@ Please, use this link to join our Slack group, allowing you to be able to commun
 ## Troubleshooting
 Check out the [LEAP-Pangeo FAQs](https://leap-stc.github.io/_preview/126/guides/faq.html#i-cannot-log-into-the-hub) if you run into problems
 
-## Summer Bootcamp Schedule and Materials 2025
-5/27/25: 11 am to 1 pm
-
-5/28/25 - 5:30/25, 6/2/25 - 6/6/25: 9:30 am to 11:30 am
-
-### First Week
-#### Instructor: Qingyuan Yang, PhD
-**Learning Goals**:
-1. Learn to process, analyze and visualize climate data in the cloud with scientific Python using the LEAP-Pangeo Jupyter Hub;
-2. Gain a understanding of fundamental climate concepts, alongside common diagnostic statistics and techniques.
-
-Day 1-4 = 5/27 - 5/30
-
-Day 1: Climate Data format and storage; LEAP Pangeo; from Pandas to Xarray
-
-Day 2: basic xarray (read, visualization, join, merge, and etc)
-
-Day 3: advanced xarray (broadcast, groupby, interpolation)
-
-Day 4: Introduction CMIP and tools to read and process the datasets &
-            linear regression + non-parametric regression (Gaussian Process) 
-
-#### Materials
-https://github.com/yiqioyang/LEAP_Bootcamp_summer_2025/tree/main
-
-### Second Week
-#### Instructor: Aya Lahlou, Graduate Researcher
-**Learning Goals**:
-
-Day 1: Intro to Neural Networks and CNNs
-
-Day 2: Temporal Models: Recurrent Neural Networks & Attention
-
-Day 3: Unsupervised Pattern Discovery & Anomaly Detection
-
-Day 4: Surrogates & Physics-Informed Models
-
-#### Materials
-https://github.com/AyaLahlou/LEAP_Bootcamp_summer_2025/tree/main
-            
-#### Instructor: Linnia Hawkins, PhD
-Day 5: Climate Modeling
-___
-
-<details>
-
-<summary>Past Events</summary>
-
-## Winter 2025 Bootcamp - Jan 2025
+## Winter 2026 Bootcamp - Jan 2026
 
 ### Day 1
 Instructor: Qingyuan Yang, Ph.D., Department of Earth and Environment Engineering Columbia University
@@ -153,9 +105,55 @@ You can find the lecture notebooks [here](https://github.com/earth-env-data-scie
 4:30 p.m.: 	Bootcamp concludes
 
 
-
 ### Day 2 Syllabus, Documents, Codes
 [Day 2 Files](https://github.com/A-Candace/Week2_Columbia_LEAP_Bootcamp)
+<summary>Past Events</summary>
+
+## Summer Bootcamp Schedule and Materials 2025
+5/27/25: 11 am to 1 pm
+
+5/28/25 - 5:30/25, 6/2/25 - 6/6/25: 9:30 am to 11:30 am
+
+### First Week
+#### Instructor: Qingyuan Yang, PhD
+**Learning Goals**:
+1. Learn to process, analyze and visualize climate data in the cloud with scientific Python using the LEAP-Pangeo Jupyter Hub;
+2. Gain a understanding of fundamental climate concepts, alongside common diagnostic statistics and techniques.
+
+Day 1-4 = 5/27 - 5/30
+
+Day 1: Climate Data format and storage; LEAP Pangeo; from Pandas to Xarray
+
+Day 2: basic xarray (read, visualization, join, merge, and etc)
+
+Day 3: advanced xarray (broadcast, groupby, interpolation)
+
+Day 4: Introduction CMIP and tools to read and process the datasets &
+            linear regression + non-parametric regression (Gaussian Process) 
+
+#### Materials
+https://github.com/yiqioyang/LEAP_Bootcamp_summer_2025/tree/main
+
+### Second Week
+#### Instructor: Aya Lahlou, Graduate Researcher
+**Learning Goals**:
+
+Day 1: Intro to Neural Networks and CNNs
+
+Day 2: Temporal Models: Recurrent Neural Networks & Attention
+
+Day 3: Unsupervised Pattern Discovery & Anomaly Detection
+
+Day 4: Surrogates & Physics-Informed Models
+
+#### Materials
+https://github.com/AyaLahlou/LEAP_Bootcamp_summer_2025/tree/main
+            
+#### Instructor: Linnia Hawkins, PhD
+Day 5: Climate Modeling
+___
+
+<details>
 
 ## Summer 2024 Bootcamp - May and June 2024
 ### Week 1
