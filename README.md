@@ -41,7 +41,7 @@ You can find the lecture notebooks [here](https://github.com/earth-env-data-scie
 
 ### Day 1
 
-#### MONDAY, January 13, 2025: Climate and Geospatial Data Analysis with Python  
+#### MONDAY, January 13, 2026: Climate and Geospatial Data Analysis with Python  
 
 8:30 a.m.: 	Check-in  / Breakfast 
 
@@ -74,7 +74,7 @@ You can find the lecture notebooks [here](https://github.com/earth-env-data-scie
 
 ### Day 2
 
-#### TUESDAY, January 14, 2025: Machine Learning for Climate Data
+#### TUESDAY, January 14, 2026: Machine Learning for Climate Data
 
 8:30 a.m.: 	Check-in / Breakfast
 
@@ -107,6 +107,7 @@ You can find the lecture notebooks [here](https://github.com/earth-env-data-scie
 
 ### Day 2 Syllabus, Documents, Codes
 [Day 2 Files](https://github.com/A-Candace/Week2_Columbia_LEAP_Bootcamp)
+
 <summary>Past Events</summary>
 
 ## Summer Bootcamp Schedule and Materials 2025
