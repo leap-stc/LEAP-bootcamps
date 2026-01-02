@@ -41,7 +41,7 @@ You can find the lecture notebooks [here](https://github.com/earth-env-data-scie
 
 ### Day 1
 
-#### MONDAY, January 13, 2025: Climate and Geospatial Data Analysis with Python  
+#### MONDAY, January 12, 2026: Climate and Geospatial Data Analysis with Python  
 
 8:30 a.m.: 	Check-in  / Breakfast 
 
@@ -74,7 +74,7 @@ You can find the lecture notebooks [here](https://github.com/earth-env-data-scie
 
 ### Day 2
 
-#### TUESDAY, January 14, 2025: Machine Learning for Climate Data
+#### TUESDAY, January 13, 2026: Machine Learning for Climate Data
 
 8:30 a.m.: 	Check-in / Breakfast
 
