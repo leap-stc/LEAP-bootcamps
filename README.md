@@ -107,7 +107,7 @@ You can find the lecture notebooks [here](https://github.com/earth-env-data-scie
 
 ### Day 2 Syllabus, Documents, Codes
 [Day 2 Files](https://github.com/A-Candace/Week2_Columbia_LEAP_Bootcamp)
-
+___
 <summary>Past Events</summary>
 
 ## Summer Bootcamp Schedule and Materials 2025
