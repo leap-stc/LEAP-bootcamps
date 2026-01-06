@@ -41,7 +41,7 @@ You can find the lecture notebooks [here](https://github.com/earth-env-data-scie
 
 ### Day 1
 
-#### MONDAY, January 13, 2026: Climate and Geospatial Data Analysis with Python  
+#### MONDAY, January 12, 2026: Climate and Geospatial Data Analysis with Python  
 
 8:30 a.m.: 	Check-in  / Breakfast 
 
@@ -72,9 +72,42 @@ You can find the lecture notebooks [here](https://github.com/earth-env-data-scie
 ### Day 1 Syllabus, Documents, Codes
 [Day 1 Files](https://github.com/yiqioyang/LEAP_Bootcamp_winter2025_Day1)
 
+### Day 2 Introduction
+Machine Learning for Climate Data
+Instructor: Shawn Li, Ph.D.
+Data Science Institute, Columbia University
+
+### Overview
+Day 2 builds on the data analysis foundations established on Day 1 by introducing machine learning methods tailored to climate and Earth system data. The focus is on understanding how modern neural network architectures can be applied to large-scale, spatiotemporal climate datasets, with emphasis on interpretability, workflow design, and practical implementation.
+Through a sequence of lectures and hands-on labs, participants will explore how machine learning models complement physical understanding in climate science, and how these tools can be deployed efficiently in a cloud-based environment.
+
+### Learning Goals
+By the end of Day 2, participants will be able to:
+Understand the basic structure and training principles of neural networks
+Apply feedforward neural networks to climate datasets in a cloud computing environment
+Use convolutional neural networks (CNNs) for spatial pattern recognition and temperature forecasting
+Understand how recurrent neural networks (RNNs) and LSTM models capture temporal dependencies in climate data
+Gain exposure to emerging architectures, including graph neural networks (GNNs), for Earth system applications
+
+### Instructional Format
+Day 2 follows a lecture–lab structure, with short conceptual sessions immediately followed by hands-on implementation. Each lab is designed to reinforce key ideas by applying them directly to real climate datasets using Python-based machine learning frameworks.
+Participants are encouraged to:
+Follow along with live coding demonstrations
+Experiment with model configurations and hyperparameters during labs
+Work collaboratively to discuss modeling choices, limitations, and physical interpretation
+
+### Topics and Progression
+The day begins with an introduction to neural networks and their role in climate data analysis, followed by hands-on application using cloud-based workflows. The curriculum then advances to convolutional neural networks for spatial forecasting tasks, and recurrent models for temporal sequence learning. The day concludes with a forward-looking discussion on graph neural networks and their potential for representing complex Earth system interactions.
+
+### Daily Flow
+Sessions are organized to gradually move from foundational machine learning concepts toward more advanced architectures, with frequent breaks and labs to support sustained engagement. By the end of the day, participants will have implemented and evaluated multiple neural network models for climate data, and gained perspective on how these tools fit within modern climate research workflows.
+
+### Course Materials
+All lecture notebooks, lab exercises, and supporting materials are available through the LEAP-Pangeo Jupyter Hub. Participants should open all notebooks directly in the Hub to ensure consistent computing environments and data access.
+
 ### Day 2
 
-#### TUESDAY, January 14, 2026: Machine Learning for Climate Data
+#### TUESDAY, January 13, 2026: Machine Learning for Climate Data
 
 8:30 a.m.: 	Check-in / Breakfast
 
