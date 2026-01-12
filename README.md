@@ -70,6 +70,8 @@ You can find the lecture notebooks [here](https://github.com/earth-env-data-scie
 4:45 p.m.: 	Day 1 Concludes
 
 ### Day 1 Syllabus, Documents, Codes
+
+[Day 1 PPT](https://drive.google.com/file/d/1LUNbCWf0pjMY4WptnVqxobh9chubqCE1/view)
 [Day 1 Files](https://github.com/yiqioyang/LEAP_Bootcamp_winter2025_Day1)
 
 ### Day 2 Introduction
