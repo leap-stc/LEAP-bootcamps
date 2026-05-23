@@ -12,7 +12,7 @@ LEAP offers a few bootcamps on Climate Data Science each year using LEAP Pangeo 
 ## Slack Link
 
 Please, use this link to join our Slack group, allowing you to be able to communicate during and after bootcamp.  
-[BootcampSlack]([https://join.slack.com/share/enQtODI5NTg1MzkyMzAyNC05MTg4NzQ5NjY0YWM4ZTUzZDE1ZTkxZDM0MTUwNmRlNmYzYjAwNTIzYTQzZjVjMDI0Y2FhYzUyMDBlYTVkOTI4](https://leap-nsf-stc.slack.com/archives/C0B5JBVFZ1U))
+[BootcampSlack]([https://leap-nsf-stc.slack.com/archives/C0B5JBVFZ1U])
 
 ## Troubleshooting
 Check out the [LEAP-Pangeo FAQs](https://leap-stc.github.io/_preview/126/guides/faq.html#i-cannot-log-into-the-hub) if you run into problems
