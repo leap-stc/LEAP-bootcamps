@@ -25,7 +25,7 @@ Check out the [LEAP-Pangeo FAQs](https://leap-stc.github.io/_preview/126/guides/
 
 | Date | Time | Topic | Instructor |
 |---|---|---|---|
-| May 26, 2026 | 1:00 pm – 11:30 am | Climate Data Analysis | Addisu G. Semie |
+| May 26, 2026 | 11:30 am - 1:00 pm | Climate Data Analysis | Addisu G. Semie |
 | May 27, 2026 | 9:30 am – 11:30 am | Climate Data Analysis | Addisu G. Semie |
 | May 28, 2026 | 9:30 am – 11:30 am | Climate Data Analysis | Addisu G. Semie |
 | May 29, 2026 | 9:00 am – 12:00 pm | Climate Modeling Seminar | Linnia Hawkins |
